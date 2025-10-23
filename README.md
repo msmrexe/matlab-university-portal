@@ -1,6 +1,6 @@
 # MATLAB University Portal (Mini-Golestan)
 
-This project is a modular university registration system ("Mini-Golestan") written in MATLAB. It was refactored from a single-script project to demonstrate professional MATLAB development practices, including packages, classes, file-based data persistence, and vectorized operations.
+This project is a modular university registration system ("Mini-Golestan") written in MATLAB. It uses professional MATLAB development practices, including packages, classes, file-based data persistence, and vectorized operations.
 
 The system supports three user roles:
 * **Students:** Can view their grades, see class statistics (min/max/avg), and check their GPA.
