@@ -1,0 +1,19 @@
+# MATLAB/Simulink
+*.asv
+*.bak
+*.log
+*.dmp
+*.fig
+*.mex*
+*.orig
+*.slx.original
+*.mlappinstall
+*.prj
+*~
+
+# Generated data
+data/
+
+# OS
+.DS_Store
+Thumbs.db
